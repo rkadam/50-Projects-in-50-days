@@ -35,5 +35,7 @@ Reference: https://www.udemy.com/course/50-projects-50-days
     writing-mode: vertical-lr;
   }
   ```
-  ### 2 - Progress Steps
-  - Available at [Progress Steps on Raju's Guide](https://raju.guide/2-progress-steps)
+
+### 2 - Progress Steps
+
+- Available at [Progress Steps on Raju's Guide](https://raju.guide/2-progress-steps)
