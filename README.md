@@ -38,8 +38,12 @@ Reference: https://www.udemy.com/course/50-projects-50-days
 
 ### 2 - Progress Steps
 
-- Available at [Progress Steps on Raju's Guide](https://raju.guide/2-progress-steps)
+- [Progress Steps on Raju's Guide](https://raju.guide/2-progress-steps)
 
 ### 3 - Rotating Navigation
 
-- Live demo available on [Raju.guide](https://raju.guide/3-rotating-navigation)
+- [Rotating navigation on Raju.guide](https://raju.guide/3-rotating-navigation)
+
+### 8 - Form Wave Animiation
+
+- [Form wave animiation on Raju.guide](https://raju.guide/8-form-wave-animation)
