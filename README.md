@@ -47,3 +47,7 @@ Reference: https://www.udemy.com/course/50-projects-50-days
 ### 8 - Form Wave Animiation
 
 - [Form wave animiation on Raju.guide](https://raju.guide/8-form-wave-animation)
+
+### 9 - Sound Board
+
+- [Sound Board on Raju.guide](https://raju.guide/9-sound-board/)
