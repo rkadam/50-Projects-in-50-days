@@ -51,3 +51,7 @@ Reference: https://www.udemy.com/course/50-projects-50-days
 ### 9 - Sound Board
 
 - [Sound Board on Raju.guide](https://raju.guide/9-sound-board/)
+
+### 10 - Dad Jokes
+
+- [Dad Jokes on Raju.guide](https://raju.guide/jokes)
