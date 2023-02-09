@@ -55,3 +55,7 @@ Reference: https://www.udemy.com/course/50-projects-50-days
 ### 10 - Dad Jokes
 
 - [Dad Jokes on Raju.guide](https://raju.guide/jokes)
+
+### 11 - Event Codes
+
+- [Event Codes on Raju.guide](https://raju.guide/eventcodes)
