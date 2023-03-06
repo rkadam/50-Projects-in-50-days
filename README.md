@@ -59,3 +59,7 @@ Reference: https://www.udemy.com/course/50-projects-50-days
 ### 11 - Event Codes
 
 - [Event Codes on Raju.guide](https://raju.guide/eventcodes)
+
+### 13 - Random Choice Picker
+
+- [Random Choice Picker on Raju.guide](https://raju.guide/13-random-choice-picker)
